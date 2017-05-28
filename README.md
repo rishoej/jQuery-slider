@@ -1,4 +1,6 @@
 # jQuery slider
+![](https://github.com/rishoej/src/blob/master/gifs/jQuery-slider.gif)
+
 jQuery slider with next and previous button. 
 
 #Demo
